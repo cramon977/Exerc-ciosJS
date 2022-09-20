@@ -52,7 +52,7 @@ function separadorNotas(val){
         }
     }
  }
-separadorNotas(367)
+separadorNotas(257)
 
 
 
