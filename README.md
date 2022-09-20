@@ -1,2 +1,2 @@
-# Exerc-ciosJS
-Exercícios e desafios de Jacascript
+# ExerciciosJS
+Exercícios e desafios de JavaScript
